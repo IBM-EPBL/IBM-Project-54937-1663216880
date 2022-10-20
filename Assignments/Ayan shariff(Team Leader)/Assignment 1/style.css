@@ -1,0 +1,38 @@
+                            * {
+                                margin: 0;
+                                padding: 0;
+                                box-sizing: border-box;
+                            }
+                            
+                            .main-container {
+                                border: 0.1em solid black;
+                                width: 90%;
+                                margin: auto;
+                            }
+                            
+                            .sec-1 {
+                                height: 28%;
+                                background-color: rgb(181, 218, 19);
+                            }
+                            
+                            .details {
+                                width: 20%;
+                            }
+                            
+                            .pad-2 {
+                                padding: 3%;
+                            }
+                            
+                            .no-style {
+                                list-style-type: none;
+                            }
+                            
+                            .profile-pic {
+                                height: 10em;
+                                width: 8em;
+                                margin: 1.2em;
+                            }
+                            
+                            .profile {
+                                align-items: center;
+                            }
